@@ -1,0 +1,49 @@
+#      
+#   DShield.org Recommended Block List 
+#    (c) 2022 DShield.org
+#   some rights reserved. Details http://creativecommons.org/licenses/by-nc-sa/2.5/
+#   use on your own risk. No warranties implied.
+#   primary URL: http://feeds.dshield.org/block.txt
+#     PGP Sign.: http://feeds.dshield.org/block.txt.asc
+#
+#   comments: info@dshield.org
+#    updated: Fri Apr 15 20:01:57 2022 UTC
+#   
+#    This list summarizes the top 20 attacking class C (/24) subnets
+#   over the last three days. The number of 'attacks' indicates the 
+#   number of targets reporting scans from this subnet.
+#
+#
+#    Columns (tab delimited):
+#
+#    (1) start of netblock  
+#    (2) end of netblock
+#    (3) subnet (/24 for class C)
+#    (4) number of targets scanned
+#    (5) name of Network 
+#    (6) Country
+#    (7) contact email address
+#
+#    If a range is assigned to multiple users, the first one is listed. 
+#     
+Start	End	Netmask	Attacks	Name	Country	email
+89.248.165.0	89.248.165.255	24	9719	INT-NETWORK	SC	abuse@ipvolume.net
+185.156.73.0	185.156.73.255	24	5617	SIBIRINVEST	NL	qwalarty@ukr.net
+167.248.133.0	167.248.133.255	24	5509	CENSYS-ARIN-03	US	
+45.155.205.0	45.155.205.255	24	4673	SELECTEL	RU	abuse@selectel.ru
+91.240.118.0	91.240.118.255	24	3893	GLOBALLAYER	NL	abuse@global-layer.com
+193.163.125.0	193.163.125.255	24	3530	CYBER-CASA	GB	>>UNKNOWN<<
+92.63.197.0	92.63.197.255	24	3248	SIBIRINVEST	NL	qwalarty@ukr.net
+78.128.113.0	78.128.113.255	24	3064	MITI2000	BG	>>UNKNOWN<<
+146.88.240.0	146.88.240.255	24	3042	ARBOR	US	hostmaster@arbor.net
+89.248.163.0	89.248.163.255	24	2943	INT-NETWORK	SC	abuse@ipvolume.net
+185.191.34.0	185.191.34.255	24	2854	SELECTEL-MSK	RU	abuse@selectel.ru
+64.62.197.0	64.62.197.255	24	2574	HURRICANE	US	abuse@he.net
+45.135.232.0	45.135.232.255	24	2396	SELECTEL-MSK	RU	abuse@selectel.ru
+192.241.222.0	192.241.222.255	24	2234	DIGITALOCEAN-ASN	US	abuse@digitalocean.com
+94.102.61.0	94.102.61.255	24	2231	INT-NETWORK	SC	abuse@ipvolume.net
+192.241.224.0	192.241.224.255	24	2186	DIGITALOCEAN-ASN	US	abuse@digitalocean.com
+192.241.223.0	192.241.223.255	24	2142	DIGITALOCEAN-ASN	US	abuse@digitalocean.com
+192.241.225.0	192.241.225.255	24	2071	DIGITALOCEAN-ASN	US	abuse@digitalocean.com
+138.99.216.0	138.99.216.255	24	1984	NFORCE	NL	abuse@nforce.com
+2.56.57.0	2.56.57.255	24	1842	AS-SERVERION Serverion B.V.	NL	>>UNKNOWN<<

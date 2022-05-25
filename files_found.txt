@@ -1,0 +1,2 @@
+C:\test\mysql_connector_java_5.0.6_bin.jar
+C:\test\random.txt

@@ -1,0 +1,120 @@
+89.248.165.0
+Latitude: 52.3759
+Longitude: 4.8975
+Geo-Location: Pier 2, Damrak, Centrum, Amsterdam, Noord-Holland, Nederland, 1012JN, Nederland
+
+
+185.156.73.0
+Latitude: 55.7386
+Longitude: 37.6068
+Geo-Location: Пречистенская набережная, район Хамовники, Москва, Центральный федеральный округ, 119072, Россия
+
+
+167.248.133.0
+Latitude: 37.751
+Longitude: -97.822
+Geo-Location: Reno County, Kansas, United States
+
+
+45.155.205.0
+Latitude: 59.8983
+Longitude: 30.2618
+Geo-Location: 19, Промышленная улица, Нарвский округ, Санкт-Петербург, Северо-Западный федеральный округ, 198099, Россия
+
+
+91.240.118.0
+Latitude: 55.7386
+Longitude: 37.6068
+Geo-Location: Пречистенская набережная, район Хамовники, Москва, Центральный федеральный округ, 119072, Россия
+
+
+193.163.125.0
+Latitude: 51.4964
+Longitude: -0.1224
+Geo-Location: Lambeth Pier, Lambeth Palace Road, Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7SG, United Kingdom
+
+
+92.63.197.0
+Latitude: 55.7386
+Longitude: 37.6068
+Geo-Location: Пречистенская набережная, район Хамовники, Москва, Центральный федеральный округ, 119072, Россия
+
+
+78.128.113.0
+Latitude: 42.696
+Longitude: 23.332
+Geo-Location: Храм-паметник Св. Александър Невски, пл. Св. Александър Невски, Център, София, Оборище, Столична, София-град, 1000, Бългaрия
+
+
+89.248.163.0
+Latitude: 51.4964
+Longitude: -0.1224
+Geo-Location: Lambeth Pier, Lambeth Palace Road, Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7SG, United Kingdom
+
+
+146.88.240.0
+Latitude: 42.4734
+Longitude: -83.2212
+Geo-Location: 18100, West 10 Mile Road, Southfield, Oakland County, Michigan, 48075, United States
+
+
+185.191.34.0
+Latitude: 55.7386
+Longitude: 37.6068
+Geo-Location: Пречистенская набережная, район Хамовники, Москва, Центральный федеральный округ, 119072, Россия
+
+
+64.62.197.0
+Latitude: 45.6514
+Longitude: -121.3833
+Geo-Location: Wilson Road, Wasco County, Oregon, 97040, United States
+
+
+45.135.232.0
+Latitude: 55.7483
+Longitude: 37.6171
+Geo-Location: Кремлёвская набережная, 15, Тверской район, Москва, Центральный федеральный округ, 119019, Россия
+
+
+192.241.222.0
+Latitude: 37.7308
+Longitude: -122.3838
+Geo-Location: 45, George Court, San Francisco, California, 94188, United States
+
+
+94.102.61.0
+Latitude: 51.4964
+Longitude: -0.1224
+Geo-Location: Lambeth Pier, Lambeth Palace Road, Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7SG, United Kingdom
+
+
+192.241.224.0
+Latitude: 37.7308
+Longitude: -122.3838
+Geo-Location: 45, George Court, San Francisco, California, 94188, United States
+
+
+192.241.223.0
+Latitude: 37.7308
+Longitude: -122.3838
+Geo-Location: 45, George Court, San Francisco, California, 94188, United States
+
+
+192.241.225.0
+Latitude: 37.7308
+Longitude: -122.3838
+Geo-Location: 45, George Court, San Francisco, California, 94188, United States
+
+
+138.99.216.0
+Latitude: 17.2528
+Longitude: -88.7465
+Geo-Location: Cemetery Road, Salvapan, Cayo, 563, Belize
+
+
+2.56.57.0
+Latitude: 52.3824
+Longitude: 4.8995
+Geo-Location: Steiger 14, De Ruijterkade, Centrum, Amsterdam, Noord-Holland, Nederland, 1013AA, Nederland
+
+

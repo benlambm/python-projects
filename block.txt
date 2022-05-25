@@ -1,0 +1,72 @@
+#      
+#   DShield.org Recommended Block List 
+#    (c) 2022 DShield.org
+#   some rights reserved. Details http://creativecommons.org/licenses/by-nc-sa/2.5/
+#   use on your own risk. No warranties implied.
+#   primary URL: http://feeds.dshield.org/block.txt
+#     PGP Sign.: http://feeds.dshield.org/block.txt.asc
+#
+#   comments: info@dshield.org
+#    updated: Fri Apr 15 18:45:15 2022 UTC
+#   
+#    This list summarizes the top 20 attacking class C (/24) subnets
+#   over the last three days. The number of 'attacks' indicates the 
+#   number of targets reporting scans from this subnet.
+#
+#
+#    Columns (tab delimited):
+#
+#    (1) start of netblock  
+#    (2) end of netblock
+#    (3) subnet (/24 for class C)
+#    (4) number of targets scanned
+#    (5) name of Network 
+#    (6) Country
+#    (7) contact email address
+#
+#    If a range is assigned to multiple users, the first one is listed. 
+#     
+Start	End	Netmask	Attacks	Name	Country	email
+89.248.165.0	89.248.165.255	24	9662	INT-NETWORK	SC	abuse@ipvolume.net
+185.156.73.0	185.156.73.255	24	5575	SIBIRINVEST	NL	qwalarty@ukr.net
+167.248.133.0	167.248.133.255	24	5463	CENSYS-ARIN-03	US	
+45.155.205.0	45.155.205.255	24	4667	SELECTEL	RU	abuse@selectel.ru
+91.240.118.0	91.240.118.255	24	3868	GLOBALLAYER	NL	abuse@global-layer.com
+193.163.125.0	193.163.125.255	24	3506	CYBER-CASA	GB	>>UNKNOWN<<
+92.63.197.0	92.63.197.255	24	3209	SIBIRINVEST	NL	qwalarty@ukr.net
+78.128.113.0	78.128.113.255	24	3037	MITI2000	BG	>>UNKNOWN<<
+89.248.163.0	89.248.163.255	24	2943	INT-NETWORK	SC	abuse@ipvolume.net
+146.88.240.0	146.88.240.255	24	2891	ARBOR	US	hostmaster@arbor.net
+185.191.34.0	185.191.34.255	24	2824	SELECTEL-MSK	RU	abuse@selectel.ru
+64.62.197.0	64.62.197.255	24	2574	HURRICANE	US	abuse@he.net
+45.135.232.0	45.135.232.255	24	2394	SELECTEL-MSK	RU	abuse@selectel.ru
+192.241.222.0	192.241.222.255	24	2225	DIGITALOCEAN-ASN	US	abuse@digitalocean.com
+94.102.61.0	94.102.61.255	24	2220	INT-NETWORK	SC	abuse@ipvolume.net
+192.241.224.0	192.241.224.255	24	2182	DIGITALOCEAN-ASN	US	abuse@digitalocean.com
+192.241.223.0	192.241.223.255	24	2127	DIGITALOCEAN-ASN	US	abuse@digitalocean.com
+192.241.225.0	192.241.225.255	24	2052	DIGITALOCEAN-ASN	US	abuse@digitalocean.com
+138.99.216.0	138.99.216.255	24	1984	NFORCE	NL	abuse@nforce.com
+2.56.57.0	2.56.57.255	24	1839	AS-SERVERION Serverion B.V.	NL	>>UNKNOWN<<
+
+
+Estimated Geographic Coordinates: 
+Pier 2, Damrak, Centrum, Amsterdam, Noord-Holland, Nederland, 1012JN, Nederland
+Пречистенская набережная, район Хамовники, Москва, Центральный федеральный округ, 119072, Россия
+Reno County, Kansas, United States
+19, Промышленная улица, Нарвский округ, Санкт-Петербург, Северо-Западный федеральный округ, 198099, Россия
+Пречистенская набережная, район Хамовники, Москва, Центральный федеральный округ, 119072, Россия
+Lambeth Pier, Lambeth Palace Road, Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7SG, United Kingdom
+Пречистенская набережная, район Хамовники, Москва, Центральный федеральный округ, 119072, Россия
+Храм-паметник Св. Александър Невски, пл. Св. Александър Невски, Център, София, Оборище, Столична, София-град, 1000, Бългaрия
+Lambeth Pier, Lambeth Palace Road, Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7SG, United Kingdom
+18100, West 10 Mile Road, Southfield, Oakland County, Michigan, 48075, United States
+Пречистенская набережная, район Хамовники, Москва, Центральный федеральный округ, 119072, Россия
+Wilson Road, Wasco County, Oregon, 97040, United States
+Кремлёвская набережная, 15, Тверской район, Москва, Центральный федеральный округ, 119019, Россия
+45, George Court, San Francisco, California, 94188, United States
+Lambeth Pier, Lambeth Palace Road, Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7SG, United Kingdom
+45, George Court, San Francisco, California, 94188, United States
+45, George Court, San Francisco, California, 94188, United States
+45, George Court, San Francisco, California, 94188, United States
+Cemetery Road, Salvapan, Cayo, 563, Belize
+Steiger 14, De Ruijterkade, Centrum, Amsterdam, Noord-Holland, Nederland, 1013AA, Nederland
